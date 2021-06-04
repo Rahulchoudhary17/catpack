@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "5638421"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "d7b309e8e054f6bc3ba1fee8fe0c7cba"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -29,11 +29,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": ""
+      "value": "@AT_WORLDS_END_PUBLIC_BOT"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "1862972381:AAFhn_uUwOfEzC_2iN_320pBtD2fV3Q3BUA"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -47,7 +47,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "e33041f8-a47d-4334-b963-be794bc8c137",
       "required": false
     },
     "HEROKU_APP_NAME": {
